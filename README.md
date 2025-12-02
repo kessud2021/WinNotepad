@@ -1,2 +1,2 @@
 # WinNotepad
-Building a text editor in Java, using Java Swing for creating a graphical user interface.
+A simple notepad clone of Microsoft Windows Notepad!
