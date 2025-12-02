@@ -1,2 +1,2 @@
-# Text-Editor
+# WinNotepad
 Building a text editor in Java, using Java Swing for creating a graphical user interface.
